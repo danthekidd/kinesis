@@ -1,4 +1,4 @@
-# Kinesis - Location Spoofing for iOS 17
+# Kinesis - Location Spoofing for iOS 17 (Windows fork)
 
 Built with `pymobiledevice3` and `leaflet`.
 
