@@ -9,7 +9,7 @@ Built with `pymobiledevice3` and `leaflet`.
 
 ## Run
 
-It's recommended to use a [virtual environment](https://docs.python.org/3/tutorial/venv.html)
+It's recommended to use a [virtual environment](https://docs.python.org/3/tutorial/venv.html). **Run all commands in an elevated command prompt.**
 
 ```shell
 python -m venv .venv
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 Have your device connected, **USB connection is required**
 
-Start project (run this in a elevated command prompt)
+Start project
 
 ```shell
 python main.py
