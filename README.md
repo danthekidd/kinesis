@@ -12,14 +12,14 @@ Built with `pymobiledevice3` and `leaflet`.
 It's recommended to use a [virtual environment](https://docs.python.org/3/tutorial/venv.html)
 
 ```shell
-python3 -m venv ./.venv
-source ./.venv/bin/activate
+python -m venv .venv
+.venv\Scripts\Activate
 ```
 
 Install python dependencies
 
 ```shell
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Have your device connected, **USB connection is required**
@@ -27,7 +27,8 @@ Have your device connected, **USB connection is required**
 Start project
 
 ```shell
-sudo python3 main.py
+: Run this in a elevated command prompt
+python main.py
 ```
 
 Browse [http://localhost:3000](http://localhost:3000)
