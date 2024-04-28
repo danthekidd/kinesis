@@ -27,7 +27,7 @@ Have your device connected, **USB connection is required**
 Start project
 
 ```shell
-: Run this in a elevated command prompt
+:: Run this in a elevated command prompt
 python main.py
 ```
 
