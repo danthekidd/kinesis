@@ -24,10 +24,9 @@ pip install -r requirements.txt
 
 Have your device connected, **USB connection is required**
 
-Start project
+Start project (run this in a elevated command prompt)
 
 ```shell
-:: Run this in a elevated command prompt
 python main.py
 ```
 
